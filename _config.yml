@@ -1,7 +1,7 @@
 name: unlleashit
 favicon: null
-layout_spectrum: 0.4637719464953989
-typography_spectrum: 0.3304776062723249
+layout_spectrum: 0
+typography_spectrum: 0.33141
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.8963135946542025
+  brandStrength: 1
   lightness: 0.2052370358724147
-  saturation: 0.4307369743473828
+  saturation: 0.75
   rhythmicContrast: 0.6969312375877053
 purpose: []
